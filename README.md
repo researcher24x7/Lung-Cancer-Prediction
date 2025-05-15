@@ -13,3 +13,8 @@ The lungs play a crucial role in respiration by supplying oxygen to every cell i
 ## Output
 ![age](https://github.com/user-attachments/assets/c512acfc-cbb6-415c-bf82-854add11da71)
 
+![auc-roc curve for gradient boosting](https://github.com/user-attachments/assets/5c90c7ce-0baf-484e-8ef7-29e6ea8537c7)
+
+
+![gaussian](https://github.com/user-attachments/assets/1cce00a5-950e-4752-b4d6-9fe071b4e3ff)
+
