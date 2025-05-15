@@ -10,4 +10,6 @@ The lungs play a crucial role in respiration by supplying oxygen to every cell i
 * Keras 2.2.2
 * Matplotlib 2.2.2
 
+## Output
+![age](https://github.com/user-attachments/assets/c512acfc-cbb6-415c-bf82-854add11da71)
 
